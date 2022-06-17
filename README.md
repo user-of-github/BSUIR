@@ -1,7 +1,7 @@
 # _Hello to everybody ! 👋_
 
 ### _This repository is a collection of links to the entire university stuff that I have posted on GitHub. A structured list of links to laboratory works and course projects_  
-### _So.. Welcome to a part of my wonderful journey at BSUIR you can see below:_  
+### _So.. Welcome to a part of my wonderful journey at BSUIR:_  
 &nbsp;  
 
 * [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП): { 1-2 terms }](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming)  
