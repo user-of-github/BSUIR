@@ -10,6 +10,10 @@
 * [💻 Programming Tools (Инструменты и Средства Программирования, ИСП): { 2-4 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming-tools)  
 * [⚛ Architecture of Computing Systems (Архитектура Вычислительных Систем, АВС): { 4 term }](https://github.com/user-of-github/BSUIR_Labs_Architecture-of-computing-systems)  
 * [📈 Methods of Numerical Analysis (Методы Численного Анализа, МЧА): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Methods-of-numerical-analysis)  
+* [💻 Selected Chapters of Informatics (Избранные Главы Информатики, ИГИ): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Selected-chapters-of-informatics)  
+* [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming)  
+* [📱 Software design (Проектирование Программного Обеспечения, ППО): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Software-design)  
+* [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems)   
 
 &nbsp;  
 
