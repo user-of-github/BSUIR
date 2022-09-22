@@ -21,6 +21,6 @@
 
 &nbsp;  
 
-###### © BSUIR
-###### © Faculty of Computer Systems and Networks
-###### © Computer Science and Programming Technologies (Informatics)
+###### © BSUIR | БГУИР
+###### © Faculty of Computer Systems and Networks | Факультет Компьютерных Систем и Сетей (КСиС)
+###### © Computer Science and Programming Technologies (Informatics) | Информатика и Технологии Программирования (ИиТП)
