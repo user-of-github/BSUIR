@@ -1,6 +1,6 @@
 # _Hello to everybody ! 👋_
 
-### _This repository is a collection of links to the entire university stuff that I have posted on GitHub. A structured list of links to laboratory works and course projects_  
+### _This repository contains a collection of links to the entire university stuff that I have posted on GitHub. A structured list of links to laboratory works and course projects_  
 ### _So.. Welcome to a part of my wonderful journey at BSUIR:_  
 &nbsp;  
 
