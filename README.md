@@ -13,7 +13,7 @@
 * [💻 Selected Chapters of Informatics (Избранные Главы Информатики, ИГИ): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Selected-chapters-of-informatics)  
 * [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming)  
 * [📱 Software design (Проектирование Программного Обеспечения, ППО): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Software-design)  
-* [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems)   
+* [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5-6 terms }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems)   
 
 &nbsp;  
 
