@@ -14,6 +14,7 @@
 * [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming)  
 * [📱 Software design (Проектирование Программного Обеспечения, ППО): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Software-design)  
 * [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5-6 terms }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems)   
+* [💻 Operating Systems And Environments (Операционные Системы и Среды, ОСиС): {6 term}](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments)
 
 &nbsp;  
 
