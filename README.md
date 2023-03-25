@@ -7,10 +7,10 @@
 &nbsp;  
 
 * [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП): { 1-2 terms }](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`   
-* [💻 Programming (Программирование): { 2-3 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming) `C`, `Data Structures`, `GitHub Actions`, `Unit Tests`, `Codecov`, `Assembler`, `MS DOS`  
+* [💻 Programming (Программирование): { 2-3 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming) `C`, `Data Structures`, `GitHub Actions`, `Unit Tests`, `Codecov`, `Assembler`, `TASM`, `MS DOS`  
 * [🗃 Object-Oriented Programming (Объектно Ориентированное Программирование, ООП): { 4 term }](https://github.com/user-of-github/BSUIR_Labs_Object-oriented-programming) `OOP`, `Patterns`, `Java`  
 * [💻 Programming Tools (Инструменты и Средства Программирования, ИСП): { 2-4 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming-tools) `C#`, `.NET`, `Python`, `Django`, `REST API`, `Web`, `ORM`  
-* [⚛ Architecture of Computing Systems (Архитектура Вычислительных Систем, АВС): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Architecture-of-computing-systems) `System Verilog`, `C/C++`, `Assembler`   
+* [⚛ Architecture of Computing Systems (Архитектура Вычислительных Систем, АВС): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Architecture-of-computing-systems) `Logisim`, `System Verilog`, `Quartus`, `ModelSim`, `C/C++`, `Assembler`, `TASM`, `FASM`, `OMP`   
 * [📈 Methods of Numerical Analysis (Методы Численного Анализа, МЧА): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Methods-of-numerical-analysis) `Math`, `Maple`, `Python`, `NumPy`  
 * [💻 Selected Chapters of Informatics (Избранные Главы Информатики, ИГИ): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Selected-chapters-of-informatics) `C#`, `ASP.NET Core`, `Entity Framework`, `Web`, `ORM` 
 * [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming) `WinAPI`, `C++`, `Windows`  
@@ -22,7 +22,7 @@
 
 &nbsp;  
 
-* [🎓 Course projects (Курсовые проекты за все семестры): { 2-5 terms }](https://github.com/user-of-github/BSUIR_course-projects)  
+* [🎓 Course projects (Курсовые проекты за все семестры): { 2-5 terms }](https://github.com/user-of-github/BSUIR_course-projects)  `C++`, `WinAPI`, `Maple`, `TypeScript`, `React`, `Crow.cpp`, `Django REST Framework`, `FASM`
 
 &nbsp;  
 
