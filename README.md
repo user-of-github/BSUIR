@@ -16,9 +16,9 @@
 * [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming) `WinAPI`, `C++`, `Windows`  
 * [📱 Software design (Проектирование Программного Обеспечения, ППО): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Software-design)  `Mobile`, `Android SDK`, `React Native`, `TypeScript/JavaScript`  
 * [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5-6 terms }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems) `SQL`, `PostgreSQL`, `PL/SQL`, `Oracle`   
-* [💻 Operating Systems And Environments (Операционные Системы и Среды, ОСиС): { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments) `Shell`, `Bash`, `Linux`, `C++` 
+* [💻 Operating Systems And Environments (Операционные Системы и Среды, ОСиС): { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments) `Linux`, `C++`, `multiprocessing`, `multithreading`, `libs building`, `makefile`, `system calls`, `Shell`, `Bash` 
 * [📈 Methods of optimization and control (Методы Оптимизации и Контроля, МОиУ) : { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques) `Math`, `Python`, `NumPy`    
-* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ) { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) `TypeScript`  
+* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ) { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) `Encryption`, `security basics`, `TypeScript`  
 
 &nbsp;  
 
