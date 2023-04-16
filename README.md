@@ -3,22 +3,23 @@
 ### _This repository contains a collection of links to the entire university stuff that I have posted on GitHub. A structured list of links to laboratory works ( & their task statements) and course projects_  
 ### _So.. Welcome to a part of my wonderful journey at BSUIR:_  
 &nbsp;    
-#### _Comment: `After every subject I wrote basic tags/terms/tools of that subject`_
+#### _Comment: `After every subject I wrote basic tags/terms/tools of that subject`_  
+##### _One more comment: not all labs were published to GitHub due to different reasons (alternative variants for labs), but the majority of them is here_
 &nbsp;  
 
-* [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП): { 1-2 terms }](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`   
-* [💻 Programming (Программирование): { 2-3 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming) `C`, `Data Structures`, `GitHub Actions`, `Unit Tests`, `Codecov`, `Assembler`, `TASM`, `MS DOS`  
-* [🗃 Object-Oriented Programming (Объектно Ориентированное Программирование, ООП): { 4 term }](https://github.com/user-of-github/BSUIR_Labs_Object-oriented-programming) `OOP`, `Patterns`, `Java`  
-* [💻 Programming Tools (Инструменты и Средства Программирования, ИСП): { 2-4 terms }](https://github.com/user-of-github/BSUIR_Labs_Programming-tools) `C#`, `.NET`, `Python`, `Django`, `REST API`, `Web`, `ORM`  
-* [⚛ Architecture of Computing Systems (Архитектура Вычислительных Систем, АВС): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Architecture-of-computing-systems) `Logisim`, `System Verilog`, `Quartus`, `ModelSim`, `C/C++`, `Assembler`, `TASM`, `FASM`, `OMP`   
-* [📈 Methods of Numerical Analysis (Методы Численного Анализа, МЧА): { 4-5 terms }](https://github.com/user-of-github/BSUIR_Labs_Methods-of-numerical-analysis) `Math`, `Maple`, `Python`, `NumPy`  
-* [💻 Selected Chapters of Informatics (Избранные Главы Информатики, ИГИ): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Selected-chapters-of-informatics) `C#`, `ASP.NET Core`, `Entity Framework`, `Web`, `ORM` 
-* [💻 System Programming (Системное Программирование, СП): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_System-programming) `WinAPI`, `C++`, `Windows`  
-* [📱 Software design (Проектирование Программного Обеспечения, ППО): { 5 term }](https://github.com/user-of-github/BSUIR_Labs_Software-design)  `Mobile`, `Android SDK`, `React Native`, `TypeScript/JavaScript`  
-* [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД): { 5-6 terms }](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems) `SQL` + `PL/SQL`, `PostgreSQL`, `Oracle`   
-* [💻 Operating Systems And Environments (Операционные Системы и Среды, ОСиС): { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments) `Linux`, `C++`, `Multiprocessing / Multithreading`, `Network basics`, `Libs building`, `Makefile`, `System calls`, `Shell`, `Bash` 
-* [📈 Methods of optimization and control (Методы Оптимизации и Контроля, МОиУ) : { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques) `Math`, `Python`, `NumPy`    
-* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ) { 6 term }](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) `Encryption`, `Security basics`, `TypeScript`  
+* [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП)](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) __{ 1-2 terms }__ `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`   
+* [💻 Programming (Программирование)](https://github.com/user-of-github/BSUIR_Labs_Programming) __{ 2-3 terms }__ `C`, `Data Structures`, `GitHub Actions`, `Unit Tests`, `Codecov`, `Assembler`, `TASM`, `MS DOS`  
+* [🗃 Object-Oriented Programming (Объектно Ориентированное Программирование, ООП)](https://github.com/user-of-github/BSUIR_Labs_Object-oriented-programming) __{ 4 term }__ `OOP`, `Patterns`, `Java`  
+* [💻 Programming Tools (Инструменты и Средства Программирования, ИСП)](https://github.com/user-of-github/BSUIR_Labs_Programming-tools) __{ 2-4 terms }__ `C#`, `.NET`, `Python`, `Django`, `REST API`, `Web`, `ORM`  
+* [⚛ Architecture of Computing Systems (Архитектура Вычислительных Систем, АВС)](https://github.com/user-of-github/BSUIR_Labs_Architecture-of-computing-systems) __{ 4-5 terms }__ `Logisim`, `System Verilog`, `Quartus`, `ModelSim`, `C/C++`, `Assembler`, `TASM`, `FASM`, `OMP`   
+* [📈 Methods of Numerical Analysis (Методы Численного Анализа, МЧА)](https://github.com/user-of-github/BSUIR_Labs_Methods-of-numerical-analysis) __{ 4-5 terms }__ `Math`, `Python`, `NumPy`, `Maple`  
+* [💻 Selected Chapters of Informatics (Избранные Главы Информатики, ИГИ)](https://github.com/user-of-github/BSUIR_Labs_Selected-chapters-of-informatics) __{ 5 term }__ `C#`, `ASP.NET Core`, `Entity Framework`, `Web`, `ORM` 
+* [💻 System Programming (Системное Программирование, СП)](https://github.com/user-of-github/BSUIR_Labs_System-programming) __{ 5 term }__ `WinAPI`, `C++`, `Windows`  
+* [📱 Software design (Проектирование Программного Обеспечения, ППО)](https://github.com/user-of-github/BSUIR_Labs_Software-design) __{ 5 term }__ `Mobile`, `Android SDK`, `React Native`, `TypeScript/JavaScript`  
+* [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД)](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems) __{ 5-6 terms }__ `SQL` + `PL/SQL`, `PostgreSQL`, `Oracle`   
+* [💻 Operating Systems And Environments (Операционные Системы и Среды, ОСиС)](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments) __{ 6 term }__ `Linux`, `C++`, `Multiprocessing / Multithreading`, `Network elements`, `Libs building`, `Makefile`, `System calls`, `Shell`, `Bash` 
+* [📈 Methods of optimization and control (Методы Оптимизации и Контроля, МОиУ)](https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques) __{ 6 term }__ `Math`, `Python`, `NumPy`    
+* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ)](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) __{ 6 term }__ `Encryption`, `Security basics`, `TypeScript`  
 
 &nbsp;  
 
