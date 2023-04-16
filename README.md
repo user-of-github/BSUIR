@@ -4,7 +4,7 @@
 ### _So.. Welcome to a part of my wonderful journey at BSUIR:_  
 &nbsp;    
 #### _Comment: `After every subject I wrote basic tags/terms/tools of that subject`_  
-##### _One more comment: not all labs were published to GitHub due to different reasons (alternative variants for labs), but the majority of them is here_
+##### _One more comment: `Not all labs were published to GitHub due to different reasons (alternative variants for labs), but the majority of them is here`_
 &nbsp;  
 
 * [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП)](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) __{ 1-2 terms }__ `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`   
