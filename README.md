@@ -19,8 +19,10 @@
 * [📖 Data Models And Database Management Systems (Модели данных и Системы Управления БД, МДиСУБД)](https://github.com/user-of-github/BSUIR_Labs_Data-models-and-database-management-systems) __{ 5-6 terms }__ `SQL`, `PosgreSQL`,  `Oracle`, `PL/SQL`, `Procedures, Schemas, Triggers, Functions....`
 * [🖥️ Operating Systems And Environments (Операционные Системы и Среды, ОСиС)](https://github.com/user-of-github/BSUIR_Labs_Operating-systems-and-environments) __{ 6 term }__ `Linux`, `C++`, `Multiprocessing / Multithreading`, `Network elements`, `Libs building`, `Makefile`, `System calls`, `Shell`, `Bash` 
 * [📈 Methods of optimization and control (Методы Оптимизации и Контроля, МОиУ)](https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques) __{ 6 term }__ `Math`, `Python`, `NumPy`    
-* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ)](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) __{ 6 term }__ `Encryption`, `Security basics`, `TypeScript`  
-
+* [🔒 Information Networks, Security Basics (Информационные Сети и Основы Безопасности, ИСОБ)](https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics) __{ 6 term }__ `Encryption`, `Security basics`, `TypeScript`
+* [🔒 Methods of Information Protection (Методы защиты информации, МЗИ)]([https://github.com/user-of-github/BSUIR_Labs_Information-networks-and-security-basics](https://github.com/user-of-github/BSUIR_Labs_Methods-of-information-protection)) __{ 7 term }__ `Cryptography`, `Security`, `C++`
+* [📈 System Analysis & Operation Research (Системный Анализ и Исследование Операций, САиИО)]([https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques](https://github.com/user-of-github/BSUIR_Labs_System-analysis-and-operations-research) __{ 7 term }__ `Math`, `Python`, `NumPy`  
+ 
 &nbsp;  
 
 * [🎓 Course projects (Курсовые проекты за все семестры): { 2-5 terms }](https://github.com/user-of-github/BSUIR_course-projects)  `C++`, `WinAPI`, `Maple`, `TypeScript`, `React`, `Crow.cpp`, `Django REST Framework`, `FASM`
