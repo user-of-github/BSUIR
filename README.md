@@ -7,7 +7,8 @@
 ##### _One more comment: `Not all labs were published to GitHub due to different reasons (alternative variants for labs), but the majority of them is here`_
 &nbsp;  
 
-* [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП)](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) __{ 1-2 terms }__ `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`   
+* [💻 Fundamentals Of Algorithmization and Programming (Основы Алгоритмизации и Программирования, ОАиП)](https://github.com/user-of-github/BSUIR_Labs_Algorithmization-and-programming) __{ 1-2 terms }__ `C++`, `Data Structures`, `Algos`, `QT`, `C++ Builder`
+* [📊 Math Analysis (Математика, математический анализ. ММА)](https://github.com/user-of-github/BSUIR_Labs_Mathematical-analysis) __{1 - 3 terms, but labs only in 3rd}__ `math`, `calculus`, `maple`  
 * [💻 Programming (Программирование)](https://github.com/user-of-github/BSUIR_Labs_Programming) __{ 2-3 terms }__ `C`, `Data Structures`, `GitHub Actions`, `Unit Tests`, `Codecov`, `Assembler`, `TASM`, `MS DOS`  
 * [🗃 Object-Oriented Programming (Объектно Ориентированное Программирование, ООП)](https://github.com/user-of-github/BSUIR_Labs_Object-oriented-programming) __{ 4 term }__ `OOP`, `Patterns`, `Java`  
 * [💻 Programming Tools (Инструменты и Средства Программирования, ИСП)](https://github.com/user-of-github/BSUIR_Labs_Programming-tools) __{ 2-4 terms }__ `C#`, `.NET`, `Python`, `Django`, `REST API`, `Web`, `ORM`  
