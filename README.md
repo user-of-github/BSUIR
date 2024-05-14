@@ -25,7 +25,7 @@
 * [📈 System Analysis & Operation Research (Системный Анализ и Исследование Операций, САиИО)](https://github.com/user-of-github/BSUIR_Labs_Optimization-and-control-techniques) __{ 7 term }__ `Math`, `Python`, `NumPy`
 * [📑 Software Development Technologies (Технологии разработки программного обеспечения, ТРПО)](https://github.com/user-of-github/BSUIR_Labs_Technologies-of-software-development) __{ 7 term }__ `Math`, `Python`, `NumPy`
 * [📑 Financial information processing technologies (Технологии обработки финансовой информации, ТОФИ)](https://github.com/user-of-github/BSUIR_Labs_Financial-information-processing-technologies)
-* [📈 Math Modelling (Математическое моделирование, ММод)]([https://github.com/user-of-github/BSUIR_Labs_Financial-information-processing-technologies](https://github.com/user-of-github/BSUIR_Labs_Mathematical-modeling) __{ 7 term }__ `Math`, `Probability theory`, `Queuing system`, `Python`, `Jupyter Notebook`, `NumPy`  
+* [📈 Math Modelling (Математическое моделирование, ММод)](https://github.com/user-of-github/BSUIR_Labs_Mathematical-modeling) __{ 7 term }__ `Math`, `Probability theory`, `Queuing system`, `Python`, `Jupyter Notebook`, `NumPy`  
 &nbsp;  
 
 * [🎓 Course projects (Курсовые проекты за все семестры): { 2-7 terms }](https://github.com/user-of-github/BSUIR_course-projects)  `C++`, `WinAPI`, `Maple`, `TypeScript`, `React`, `Crow.cpp`, `Django REST Framework`, `FASM`, `SQL`, `PostgreSQL`
