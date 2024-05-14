@@ -28,7 +28,7 @@
 * [📈 Math Modelling (Математическое моделирование, ММод)]([https://github.com/user-of-github/BSUIR_Labs_Financial-information-processing-technologies](https://github.com/user-of-github/BSUIR_Labs_Mathematical-modeling) __{ 7 term }__ `Math`, `Probability theory`, `Queuing system`, `Python`, `Jupyter Notebook`, `NumPy`  
 &nbsp;  
 
-* [🎓 Course projects (Курсовые проекты за все семестры): { 2-5 terms }](https://github.com/user-of-github/BSUIR_course-projects)  `C++`, `WinAPI`, `Maple`, `TypeScript`, `React`, `Crow.cpp`, `Django REST Framework`, `FASM`
+* [🎓 Course projects (Курсовые проекты за все семестры): { 2-7 terms }](https://github.com/user-of-github/BSUIR_course-projects)  `C++`, `WinAPI`, `Maple`, `TypeScript`, `React`, `Crow.cpp`, `Django REST Framework`, `FASM`, `SQL`, `PostgreSQL`
 
 &nbsp;  
 
